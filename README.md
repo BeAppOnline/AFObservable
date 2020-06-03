@@ -1,3 +1,3 @@
 # AFObservable
 
-A description of this package.
+This will help you to observe object when it change it useful in MVVM Architecture 
